@@ -23,4 +23,5 @@ dataLoaderMode: never  #always bo'lsa proekt run bo'lganda avtamat bazaga malumo
 accessTokenLifeTime: 86400
 refreshTokenLifeTime: 172800
 
-tokenSecretKey: thisIsSecretKey
+tokenSecretKey: 9OhGa*6i6RiB5!~mg@w"fidFi1iuc~0A@D
+
